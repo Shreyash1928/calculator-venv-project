@@ -1,0 +1,39 @@
+# -------------------------
+# Python virtual environment
+# -------------------------
+.venv/
+venv/
+ENV/
+env/
+
+# -------------------------
+# Python cache files
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------
+# Pytest / testing artifacts
+# -------------------------
+.pytest_cache/
+.coverage
+htmlcov/
+
+# -------------------------
+# VS Code / IDE
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# OS generated files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
